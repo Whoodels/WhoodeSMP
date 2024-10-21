@@ -12,7 +12,7 @@ body {
 }
 
 header {
-    background: url('whoodesmp-bg.jpg') no-repeat center center/cover;
+    background: url('whoodesmp-bg.png') no-repeat center center/cover;
     height: 100vh;
     display: flex;
     align-items: center;
